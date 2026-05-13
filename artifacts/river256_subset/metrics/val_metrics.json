@@ -1,0 +1,9 @@
+{
+  "best_threshold": 0.7999999999999998,
+  "best_iou": 0.9690366815263939,
+  "train_samples": 600,
+  "val_samples": 100,
+  "patch_size": 256,
+  "base_filters": 32,
+  "batch_size": 32
+}
