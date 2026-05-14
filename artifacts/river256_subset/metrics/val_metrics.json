@@ -1,6 +1,6 @@
 {
-  "best_threshold": 0.7999999999999998,
-  "best_iou": 0.9690366815263939,
+  "best_threshold": 0.6499999999999999,
+  "best_iou": 0.9694435012944829,
   "train_samples": 600,
   "val_samples": 100,
   "patch_size": 256,
