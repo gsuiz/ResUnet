@@ -1,9 +1,15 @@
 {
-  "best_threshold": 0.7,
-  "best_iou": 0.9685936028049433,
+  "best_threshold": 0.5999999999999999,
+  "best_iou": 0.9683363435405877,
   "train_samples": 600,
   "val_samples": 100,
   "patch_size": 256,
   "base_filters": 32,
-  "batch_size": 32
+  "batch_size": 32,
+  "mcc_mean": 0.9539197158813476,
+  "mcc_std": 0.0391573818842949,
+  "hd95_mean": 93.2218468088165,
+  "hd95_std": 58.958355904056575,
+  "boundary_f1_mean": 0.655572612285614,
+  "boundary_f1_std": 0.12155220824235388
 }
